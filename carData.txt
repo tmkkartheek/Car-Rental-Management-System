@@ -1,0 +1,24 @@
+Index,Make,Model,Year,TransmissionType,SeatingCapacity,FuelType,PricePerDay
+1,Toyota,Camry,2022,Automatic,5,Diesel,3000.0
+2,Honda,Accord,2021,Automatic,5,Diesel,3500.0
+3,Ford,Mustang,2023,Manual,4,Diesel,4000.0
+4,Maruti,Baleno,2016,Manual,5,Diesel,5000.0
+5,Maruti,Swift,2016,Manual,5,Diesel,5000.0
+6,Maruti,Swift Dzire,2016,Manual,5,Diesel,5000.0
+7,Maruti,Alto K10,2016,Manual,5,Diesel,5000.0
+8,Maruti,Baleno AT,2016,Automatic,5,Petrol,5000.0
+9,Maruti,Celerio,2016,Automatic,5,Petrol,5000.0
+10,Maruti,Ciaz,2016,Manual,5,Diesel,5000.0
+11,Maruti,Ertiga,2016,Manual,7,Diesel,5000.0
+12,Maruti,Ciaz AT,2016,Automatic,5,Petrol,5000.0
+13,Maruti,Brezza AT,2016,Automatic,5,Petrol,5000.0
+14,Hyundai,Santro AT,2022,Automatic,5,Petrol,4000.0
+15,Hyundai,Creta AT,2022,Automatic,5,Diesel,4000.0
+16,Hyundai,Elite i20,2022,Manual,5,Diesel,4000.0
+17,Hyundai,Creta,2022,Manual,5,Diesel,4000.0
+18,Hyundai,Verna AT,2022,Automatic,5,Petrol,4000.0
+19,Mahindra,XUV300,2022,Manual,5,Diesel,4500.0
+20,Mahindra,XUV,2022,Manual,7,Diesel,4500.0
+21,Mahindra,KUV100,2022,Manual,5,Diesel,4500.0
+22,Honda,Amaze,2022,Manual,5,Petrol,4500.0
+23,Abc,Def,2011,Automatic,7,Diesel,2000.0
